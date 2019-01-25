@@ -1,0 +1,535 @@
+ID	SampleID	Species	Population	Source	SourceID	Region	Country	Season	CollDate	Type	Medium	RUGstack	RUGbox	RUGpos	Notes
+1	RK001	Red Knot	canutus	ROM	DL 1	Taymyr	Russia	breed	7/1/1995	blood	ethanol	65	11	70	
+2	RK002	Red Knot	canutus	ROM	DL 2	Taymyr	Russia	breed	7/1/1995	blood	ethanol	65	11	71	
+3	RK003	Red Knot	canutus	ROM	TP1	Taymyr	Russia	breed	7/9/1994	blood	ethanol	65	12	27	
+4	RK004	Red Knot	canutus	ROM	TP2	Taymyr	Russia	breed	7/8/1994	blood	ethanol	65	12	28	
+5	RK005	Red Knot	canutus	ROM	TP4	Taymyr	Russia	breed	7/8/1994	blood	ethanol	65	12	29	
+6	RK006	Red Knot	canutus	ROM	TP6	Taymyr	Russia	breed	7/7/1994	blood	ethanol	65	12	30	
+7	RK007	Red Knot	canutus	ROM	TP9	Taymyr	Russia	breed	7/8/1994	blood	ethanol	65	12	31	
+8	RK008	Red Knot	canutus	ROM	TP13	Taymyr	Russia	breed	7/9/1994	blood	ethanol	65	12	32	
+9	RK009	Red Knot	canutus	ROM	TP15	Taymyr	Russia	breed	7/6/1994	blood	ethanol	65	12	33	
+10	RK010	Red Knot	canutus	ROM	TP21	Taymyr	Russia	breed	7/23/1994	blood	ethanol	65	12	34	
+11	RK011	Red Knot	canutus	ROM	TP24	Taymyr	Russia	breed	7/10/1994	blood	ethanol	65	12	35	
+12	RK012	Red Knot	canutus	ROM	TP26	Taymyr	Russia	breed	7/20/1994	blood	ethanol	65	12	36	
+13	RK013	Red Knot	canutus	ROM	TP27	Taymyr	Russia	breed	7/22/1994	blood	ethanol	65	12	37	
+14	RK014	Red Knot	canutus	ROM	TP36	Taymyr	Russia	breed	7/15/1994	blood	ethanol	65	12	38	
+15	RK015	Red Knot	canutus	ROM	TP42	Taymyr	Russia	breed	7/24/1994	blood	ethanol	65	12	39	
+16	RK016	Red Knot	canutus	ROM	TP45	Taymyr	Russia	breed	7/30/1994	blood	ethanol	65	12	40	
+17	RK017	Red Knot	islandica	ROM	80261053	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	17	
+18	RK018	Red Knot	islandica	ROM	80261055	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	18	
+19	RK019	Red Knot	islandica	ROM	80261056	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	19	
+20	RK020	Red Knot	islandica	ROM	80261057	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	20	
+21	RK021	Red Knot	islandica	ROM	80261058	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	21	
+22	RK022	Red Knot	islandica	ROM	80261059	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	22	
+23	RK023	Red Knot	islandica	ROM	80261060	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	23	
+24	RK024	Red Knot	islandica	ROM	80261061	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	24	
+25	RK025	Red Knot	islandica	ROM	80261062	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	25	
+26	RK026	Red Knot	islandica	ROM	80261063	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	26	
+27	RK027	Red Knot	islandica	ROM	80261066	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	27	
+28	RK028	Red Knot	islandica	ROM	80261067	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	28	
+29	RK029	Red Knot	islandica	ROM	80261068	Ellesmere Is	Canada	breed	6/1/1990	blood	ethanol	65	11	29	
+30	RK030	Red Knot	islandica	ROM	86K1	Ellesmere Is	Canada	breed	7/1/1986	organ tissue	ethanol	65	11	31	
+31	RK031	Red Knot	islandica	ROM	86K2	Ellesmere Is	Canada	breed	7/1/1986	organ tissue	ethanol	65	11	32	
+32	RK032	Red Knot	islandica	ROM	86K3	Ellesmere Is	Canada	breed	7/1/1986	organ tissue	ethanol	65	11	33	
+33	RK033	Red Knot	islandica	ROM	86K4	Ellesmere Is	Canada	breed	7/1/1986	organ tissue	ethanol	65	11	34	
+34	RK034	Red Knot	islandica	ROM	86K5	Ellesmere Is	Canada	breed	7/1/1986	organ tissue	ethanol	65	11	35	
+35	RK035	Red Knot	islandica	ROM	86K6	Ellesmere Is	Canada	breed	7/1/1986	organ tissue	ethanol	65	11	36	
+36	RK036	Red Knot	islandica	ROM	GM EK-101	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	72	
+37	RK037	Red Knot	islandica	ROM	GM EK-102	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	73	
+38	RK038	Red Knot	islandica	ROM	GM EK-103	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	74	
+39	RK039	Red Knot	islandica	ROM	GM EK-104	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	75	
+40	RK040	Red Knot	islandica	ROM	GM EK-105	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	76	
+41	RK041	Red Knot	islandica	ROM	GM EK-106	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	77	
+42	RK042	Red Knot	islandica	ROM	GM EK-107	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	78	
+43	RK043	Red Knot	islandica	ROM	GM EK-108	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	79	
+44	RK044	Red Knot	islandica	ROM	GM EK-110	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	80	
+45	RK045	Red Knot	islandica	ROM	GM EK-111	Ellesmere Is	Canada	breed	6/1/1987	organ tissue	ethanol	65	11	81	
+46	RK046	Red Knot	islandica	ROM	GM EK-112	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	1	
+47	RK047	Red Knot	islandica	ROM	GM EK-113	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	2	
+48	RK048	Red Knot	islandica	ROM	GM EK-115	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	3	
+49	RK049	Red Knot	islandica	ROM	GM EK-116	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	4	
+50	RK050	Red Knot	islandica	ROM	GM EK-117	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	5	
+51	RK051	Red Knot	islandica	ROM	GM EK-118	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	6	
+52	RK052	Red Knot	islandica	ROM	GM EK-119	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	7	
+53	RK053	Red Knot	islandica	ROM	GM EK-120	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	8	
+54	RK054	Red Knot	islandica	ROM	GM EK-121	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	9	
+55	RK055	Red Knot	islandica	ROM	GM EK-122	Ellesmere Is	Canada	breed	6/1/1987		ethanol	65	12	10	
+56	RK056	Red Knot	roselaari unk	ROM	RG 762	YK Delta, AK	USA	northbound	5/10/1990	organ tissue	ethanol	65	12	15	2nd sample pos 16
+57	RK057	Red Knot	roselaari unk	ROM	RG 763	YK Delta, AK	USA	northbound	5/14/1990	organ tissue	ethanol	65	12	17	
+58	RK058	Red Knot	roselaari unk	ROM	RG 824	Copper R, AK	USA	northbound	5/19/1995	organ tissue	ethanol	65	12	18	
+59	RK059	Red Knot	roselaari unk	ROM	RG 825	Copper R, AK	USA	northbound	5/19/1995	organ tissue	ethanol	65	12	19	very little material
+60	RK060	Red Knot	roselaari unk	ROM	RG 826	Copper R, AK	USA	northbound	5/19/1995	organ tissue	ethanol	65	12	20	
+61	RK061	Red Knot	roselaari unk	ROM	RG 835	YK Delta, AK	USA	northbound	5/19/1993	organ tissue	ethanol	65	12	21	
+62	RK062	Red Knot	roselaari unk	ROM	RG 836	YK Delta, AK	USA	northbound	5/18/1993	organ tissue	ethanol	65	12	22	
+63	RK063	Red Knot	roselaari unk	ROM	RG 837	YK Delta, AK	USA	northbound	5/19/1993	organ tissue	ethanol	65	12	23	
+64	RK064	Red Knot	roselaari unk	ROM	RG 838	YK Delta, AK	USA	northbound	5/19/1993	organ tissue	ethanol	65	12	24	
+65	RK065	Red Knot	roselaari unk	ROM	RG 839	YK Delta, AK	USA	northbound	5/17/1993	organ tissue	ethanol	65	12	25	
+66	RK066	Red Knot	roselaari unk	ROM	RG 842	YK Delta, AK	USA	northbound	5/19/1993	organ tissue	ethanol	65	12	26	
+67	RK067	Red Knot	rufa	ROM	1162-72428	Southampton Is	Canada	breed	6/28/2002		ethanol	65	11	30	
+68	RK068	Red Knot	rufa	ROM	9822-03153	Southampton Is	Canada	breed	7/1/2000		ethanol	65	11	37	
+69	RK069	Red Knot	rufa	ROM	9822-03154	Southampton Is	Canada	breed	7/4/2000		ethanol	65	11	38	
+70	RK070	Red Knot	rufa	ROM	9822-03155	Southampton Is	Canada	breed	7/4/2000		ethanol	65	11	39	
+71	RK071	Red Knot	rufa	ROM	9822-03156	Southampton Is	Canada	breed	7/4/2000		ethanol	65	11	40	
+72	RK072	Red Knot	rufa	ROM	9822-03157	Southampton Is	Canada	breed	7/5/2000		ethanol	65	11	41	
+73	RK073	Red Knot	rufa	ROM	9822-03158	Southampton Is	Canada	breed	7/5/2000		ethanol	65	11	42	
+74	RK074	Red Knot	rufa	ROM	9822-03159	Southampton Is	Canada	breed	7/6/2000		ethanol	65	11	43	
+75	RK075	Red Knot	rufa	ROM	9822-03160	Southampton Is	Canada	breed	7/7/2000		ethanol	65	11	44	
+76	RK076	Red Knot	rufa	ROM	9822-03161	Southampton Is	Canada	breed	7/7/2000		ethanol	65	11	45	
+77	RK077	Red Knot	rufa	ROM	9822-03162	Southampton Is	Canada	breed	7/8/2000		ethanol	65	11	46	
+78	RK078	Red Knot	rufa	ROM	9822-03163	Southampton Is	Canada	breed	7/8/2000		ethanol	65	11	47	
+79	RK079	Red Knot	rufa	ROM	9822-03164	Southampton Is	Canada	breed	7/8/2000		ethanol	65	11	48	
+80	RK080	Red Knot	rufa	ROM	9822-03165	Southampton Is	Canada	breed	7/8/2000		ethanol	65	11	49	
+81	RK081	Red Knot	rufa	ROM	9822-03166	Southampton Is	Canada	breed	7/9/2000		ethanol	65	11	50	
+82	RK082	Red Knot	rufa	ROM	9822-03167	Southampton Is	Canada	breed	7/10/2000		ethanol	65	11	51	
+83	RK083	Red Knot	rufa	ROM	9822-03168	Southampton Is	Canada	breed	7/9/2000		ethanol	65	11	52	
+84	RK084	Red Knot	rufa	ROM	9822-03169	Southampton Is	Canada	breed	7/12/2000		ethanol	65	11	53	
+85	RK085	Red Knot	rufa	ROM	9822-03302	Southampton Is	Canada	breed	7/13/2001		ethanol	65	11	54	
+86	RK086	Red Knot	rufa	ROM	9822-03303	Southampton Is	Canada	breed	7/13/2001		ethanol	65	11	55	
+87	RK087	Red Knot	rufa	ROM	9822-03304	Southampton Is	Canada	breed	7/13/2001		ethanol	65	11	56	
+88	RK088	Red Knot	rufa	ROM	9822-03305	Southampton Is	Canada	breed	7/13/2001		ethanol	65	11	57	
+89	RK089	Red Knot	rufa	ROM	9822-03306	Southampton Is	Canada	breed	7/13/2001		ethanol	65	11	58	
+90	RK090	Red Knot	rufa	ROM	9822-03307	Southampton Is	Canada	breed	7/14/2001		ethanol	65	11	59	
+91	RK091	Red Knot	rufa	ROM	9822-03308	Southampton Is	Canada	breed	7/14/2001		ethanol	65	11	60	
+92	RK092	Red Knot	rufa	ROM	9822-03309	Southampton Is	Canada	breed	7/14/2001		ethanol	65	11	61	
+93	RK093	Red Knot	rufa	ROM	9822-03310	Southampton Is	Canada	breed	6/27/2002		ethanol	65	11	62	
+94	RK094	Red Knot	rufa	ROM	9822-03311	Southampton Is	Canada	breed	6/27/2002		ethanol	65	11	63	
+95	RK095	Red Knot	rufa	ROM	9822-03312	Southampton Is	Canada	breed	6/28/2002		ethanol	65	11	64	
+96	RK096	Red Knot	rufa	ROM	9822-03313	Southampton Is	Canada	breed	6/30/2002		ethanol	65	11	65	
+97	RK097	Red Knot	rufa	ROM	9822-03314	Southampton Is	Canada	breed	6/30/2002		ethanol	65	11	66	
+98	RK098	Red Knot	rufa	ROM	9822-03315	Southampton Is	Canada	breed	6/30/2002		ethanol	65	11	67	
+99	RK099	Red Knot	rufa	ROM	9822-03316	Southampton Is	Canada	breed	6/30/2002		ethanol	65	11	68	
+100	RK100	Red Knot	rufa	ROM	9822-79390	Southampton Is	Canada	breed	7/13/1999		ethanol	65	11	69	
+101	RK101	Red Knot	rufa	ROM	N7001	Southampton Is	Canada	breed	6/30/2002		ethanol	65	12	11	
+102	RK102	Red Knot	rufa	ROM	N7002	Southampton Is	Canada	breed	7/2/2002		ethanol	65	12	12	
+103	RK103	Red Knot	rufa	ROM	REKN1	Southampton Is	Canada	breed	7/9/2001		ethanol	65	12	13	
+104	RK104	Red Knot	rufa	ROM	REKN4	Southampton Is	Canada	breed	7/11/2001		ethanol	65	12	14	
+105	RK105	Red Knot	rogersi	PTomkovich	185	SE Chukotka	Russia	breed	7/11/2009	organ tissue	ethanol	65	7	18	chick
+106	RK106	Red Knot	rogersi	PTomkovich	238	SE Chukotka	Russia	breed	7/1/2010	organ tissue	ethanol	65	7	19	chick
+107	RK107	Red Knot	rogersi	PTomkovich	248	SE Chukotka	Russia	breed	7/20/2010	organ tissue	ethanol	65	7	20	
+108	RK108	Red Knot	rogersi	PTomkovich	052-50051	SE Chukotka	Russia	breed	5/30/2012	blood	ethanol	65	7	21	
+109	RK109	Red Knot	roselaari W	PTomkovich	HS 000173	Wrangel Is	Russia	breed	7/12/2007	blood	ethanol	65	7	22	
+110	RK110	Red Knot	roselaari W	PTomkovich	HS 000175	Wrangel Is	Russia	breed	7/12/2007	feather	ethanol	65	7	23	chick feather
+111	RK111	Red Knot	roselaari W	PTomkovich	HS 000184	Wrangel Is	Russia	breed	7/14/2007	feather	ethanol	65	7	24	chick feather
+112	RK112	Red Knot	roselaari W	PTomkovich	HS 000191	Wrangel Is	Russia	breed	7/16/2007	blood	ethanol	65	7	25	
+113	RK113	Red Knot	roselaari W	PTomkovich	HS 000192	Wrangel Is	Russia	breed	7/16/2007	feather	ethanol	65	7	26	chick feather
+114	RK114	Red Knot	rogersi	PTomkovich	HS 003632	SE Chukotka	Russia	breed	5/31/2012	blood	ethanol	65	7	27	
+115	RK115	Red Knot	roselaari W	PTomkovich	HS 008035	Wrangel Is	Russia	breed	7/7/2007	blood	ethanol	65	7	28	
+116	RK116	Red Knot	roselaari W	PTomkovich	HS 008040	Wrangel Is	Russia	breed	7/7/2007	blood	ethanol	65	7	29	
+117	RK117	Red Knot	roselaari W	PTomkovich	HS 008047	Wrangel Is	Russia	breed	7/10/2007	blood	ethanol	65	7	30	
+118	RK118	Red Knot	roselaari W	PTomkovich	HS 008068	Wrangel Is	Russia	breed	7/7/2007	blood in capillary	ethanol	65	7	31	
+119	RK119	Red Knot	roselaari W	PTomkovich	HS 008078	Wrangel Is	Russia	breed	7/10/2007	blood in capillary	ethanol	65	7	32	
+120	RK120	Red Knot	roselaari W	PTomkovich	HS 008083	Wrangel Is	Russia	breed	8/6/2007	feather	ethanol	65	7	33	chick feather
+121	RK121	Red Knot	rogersi	PTomkovich	HS 009524	SE Chukotka	Russia	breed	6/3/2009	blood	ethanol	65	7	34	
+122	RK122	Red Knot	rogersi	PTomkovich	HS 009525	SE Chukotka	Russia	breed	7/7/2009	blood	ethanol	65	7	35	
+123	RK123	Red Knot	rogersi	PTomkovich	HS 009531	SE Chukotka	Russia	breed	5/30/2010	blood	ethanol	65	7	36	
+124	RK124	Red Knot	rogersi	PTomkovich	HS 009533	SE Chukotka	Russia	breed	5/30/2010	blood	ethanol	65	7	37	
+125	RK125	Red Knot	rogersi	PTomkovich	HS 009538	SE Chukotka	Russia	breed	7/11/2009	blood	ethanol	65	7	38	
+126	RK126	Red Knot	rogersi	PTomkovich	HS 009545	SE Chukotka	Russia	breed	6/29/2010	blood	ethanol	65	7	39	
+127	RK127	Red Knot	rogersi	PTomkovich	HS 009548	SE Chukotka	Russia	breed	6/29/2010	blood	ethanol	65	7	40	
+128	RK128	Red Knot	rogersi	PTomkovich	HS 009558	SE Chukotka	Russia	breed	7/6/2010	blood	ethanol	65	7	41	very little material
+129	RK129	Red Knot	rogersi	PTomkovich	HS 009562	SE Chukotka	Russia	breed	7/6/2010	blood	ethanol	65	7	42	very little material
+130	RK130	Red Knot	rogersi	PTomkovich	HS 009575	SE Chukotka	Russia	breed	7/14/2010	blood	ethanol	65	7	43	very little material
+131	RK131	Red Knot	rogersi	PTomkovich	HS 009601	SE Chukotka	Russia	breed	5/30/2012	feather + blood?	ethanol	65	7	44	
+132	RK132	Red Knot	rogersi	PTomkovich	HS 009602	SE Chukotka	Russia	breed	5/30/2012	blood	ethanol	65	7	45	very little material
+133	RK133	Red Knot	rogersi	PTomkovich	HS 009603	SE Chukotka	Russia	breed	6/17/2012	blood	ethanol	65	7	46	very little material
+134	RK134	Red Knot	rogersi	PTomkovich	HS 009649	SE Chukotka	Russia	breed	6/1/2013	blood	ethanol	65	7	47	
+135	RK135	Red Knot	rogersi	PTomkovich	HS 009650	SE Chukotka	Russia	breed	6/2/2013	blood	ethanol	65	7	48	
+136	RK136	Red Knot	rogersi	PTomkovich	HS 010923	SE Chukotka	Russia	breed	6/5/2014	blood	ethanol	65	7	49	
+137	RK137	Red Knot	roselaari W	PTomkovich	IS 008423	Wrangel Is	Russia	breed	7/6/2007	blood in capillary	ethanol	65	7	50	
+138	RK138	Red Knot	roselaari W	PTomkovich	IS 008463	Wrangel Is	Russia	breed	8/4/2007	feather	ethanol	65	7	51	juv feather
+139	RK139	Red Knot	roselaari W	PTomkovich	TA-29817	Wrangel Is	Russia	breed	7/2/2007	blood in capillary	ethanol	65	7	52	
+140	RK140	Red Knot	roselaari W	PTomkovich	TA-29838	Wrangel Is	Russia	breed	7/5/2007	blood	ethanol	65	7	53	
+141	RK141	Red Knot	rogersi	PTomkovich	TA-41944	SE Chukotka	Russia	breed	5/30/2010	blood	ethanol	65	7	54	very little material
+142	RK142	Red Knot	roselaari W	PTomkovich	ZMMU 463	Wrangel Is	Russia	breed	7/12/2007	blood	ethanol	65	7	55	chick
+143	RK143	Red Knot	roselaari E	USFWS	72502	Nome, AK	USA	breed	7/1/2012	blood	filter paper	65	10	1	
+144	RK144	Red Knot	roselaari E	USFWS	6JN	Nome, AK	USA	breed	7/1/2012	blood	filter paper	65	10	2	
+145	RK145	Red Knot	roselaari E	USFWS	6EL	Nome, AK	USA	breed		blood	filter paper	65	10	3	2012 unk date
+146	RK146	Red Knot	roselaari E	USFWS	6EV	Nome, AK	USA	breed	7/4/2012	blood	filter paper	65	10	4	
+147	RK147	Red Knot	roselaari E	USFWS	33821	Nome, AK	USA	breed	7/4/2012	blood	filter paper	65	10	5	
+148	RK148	Red Knot	roselaari E	USFWS	6KK	Nome, AK	USA	breed	6/1/2012	blood	filter paper	65	10	6	
+149	RK149	Red Knot	roselaari E	USFWS	6KN	Nome, AK	USA	breed	6/23/2012	blood	filter paper	65	10	7	
+150	RK150	Red Knot	roselaari E	USFWS	6KP	Nome, AK	USA	breed	6/6/2012	blood	filter paper	65	10	8	
+151	RK151	Red Knot	roselaari E	USFWS	6LX	Nome, AK	USA	breed	5/31/2012	blood	filter paper	65	10	9	
+152	RK152	Red Knot	roselaari E	USFWS	6KU	Nome, AK	USA	breed	6/4/2012	blood	filter paper	65	10	10	
+153	RK153	Red Knot	roselaari E	USFWS	6KV	Nome, AK	USA	breed	6/24/2012	blood	filter paper	65	10	11	
+154	RK154	Red Knot	roselaari E	USFWS	6LC	Nome, AK	USA	breed	6/26/2012	blood	filter paper	65	10	12	
+155	RK155	Red Knot	roselaari E	USFWS	6CU	Nome, AK	USA	breed	6/13/2012	blood	filter paper	65	10	13	
+156	RK156	Red Knot	roselaari E	USFWS	6CV	Nome, AK	USA	breed	6/13/2012	blood	filter paper	65	10	14	
+157	RK157	Red Knot	roselaari E	USFWS	6CX	Nome, AK	USA	breed	6/17/2012	blood	filter paper	65	10	15	
+158	RK158	Red Knot	roselaari E	USFWS	6CY	Nome, AK	USA	breed	6/23/2012	blood	filter paper	65	10	16	
+159	RK159	Red Knot	roselaari E	USFWS	6EA	Nome, AK	USA	breed	6/29/2012	blood	filter paper	65	10	17	
+160	RK160	Red Knot	roselaari E	USFWS	33979	Nome, AK	USA	breed	6/26/2012	blood	filter paper	65	10	18	
+161	RK161	Red Knot	roselaari E	USFWS	33980	Nome, AK	USA	breed	6/26/2012	blood	filter paper	65	10	19	
+162	RK162	Red Knot	roselaari E	USFWS	33981	Nome, AK	USA	breed	6/26/2012	blood	filter paper	65	10	20	
+163	RK163	Red Knot	roselaari E	USFWS	6EC	Nome, AK	USA	breed	6/26/2012	blood	filter paper	65	10	21	
+164	RK164	Red Knot	roselaari E	USFWS	6TE	Nome, AK	USA	breed	6/30/2012	blood	filter paper	65	10	22	
+165	RK165	Red Knot	roselaari E	USFWS	6TA	Nome, AK	USA	breed	6/30/2012	blood	filter paper	65	10	23	
+166	RK166	Red Knot	roselaari E	USFWS	6TH	Nome, AK	USA	breed	6/30/2012	blood	filter paper	65	10	24	
+167	RK167	Red Knot	roselaari E	USFWS	6TJ	Nome, AK	USA	breed	6/30/2012	blood	filter paper	65	10	25	
+168	RK168	Red Knot	roselaari E	USFWS	6TK	Nome, AK	USA	breed	6/30/2012	blood	filter paper	65	10	26	
+169	RK169	Red Knot	roselaari E	USFWS	6HJ	Nome, AK	USA	breed	6/29/2014	blood	filter paper	65	10	27	
+170	RK170	Red Knot	roselaari E	USFWS	6HN	Nome, AK	USA	breed	7/5/2014	blood	filter paper	65	10	28	
+171	RK171	Red Knot	roselaari E	USFWS	6HV	Nome, AK	USA	breed	6/4/2014	blood	filter paper	65	10	29	
+172	RK172	Red Knot	roselaari E	USFWS	6HX	Nome, AK	USA	breed	7/5/2014	blood	filter paper	65	10	30	
+173	RK173	Red Knot	roselaari E	USFWS	6KP	Nome, AK	USA	breed	6/29/2014	blood	filter paper	65	10	31	
+174	RK174	Red Knot	roselaari E	USFWS	6LX	Nome, AK	USA	breed	6/27/2014	blood	filter paper	65	10	32	
+175	RK175	Red Knot	roselaari E	USFWS	6TM	Nome, AK	USA	breed	7/5/2014	blood	filter paper	65	10	33	
+176	RK176	Red Knot	roselaari E	USFWS	6TY	Nome, AK	USA	breed	7/6/2014	blood	filter paper	65	10	34	
+177	RK177	Red Knot	roselaari E	USFWS	6UP	Nome, AK	USA	breed	6/26/2014	blood	filter paper	65	10	35	
+178	RK178	Red Knot	roselaari E	USFWS	6UU	Nome, AK	USA	breed	6/21/2014	blood	filter paper	65	10	36	
+179	RK179	Red Knot	roselaari E	USFWS	6UV	Nome, AK	USA	breed	6/27/2014	blood	filter paper	65	10	37	
+180	RK180	Red Knot	roselaari E	USFWS	6UX	Nome, AK	USA	breed	6/27/2014	blood	filter paper	65	10	38	
+181	RK181	Red Knot	roselaari E	USFWS	6UY	Nome, AK	USA	breed	6/29/2014	blood	filter paper	65	10	39	
+182	RK182	Red Knot	roselaari E	USFWS	6VA	Nome, AK	USA	breed	6/29/2014	blood	filter paper	65	10	40	
+183	RK183	Red Knot	roselaari E	USFWS	6VC	Nome, AK	USA	breed	6/30/2014	blood	filter paper	65	10	41	
+184	RK184	Red Knot	roselaari E	USFWS	6VE	Nome, AK	USA	breed	6/30/2014	blood	filter paper	65	10	42	
+185	RK185	Red Knot	roselaari E	USFWS	6VJ	Nome, AK	USA	breed	6/30/2014	blood	filter paper	65	10	43	
+186	RK186	Red Knot	roselaari E	USFWS	6VK	Nome, AK	USA	breed	6/30/2014	blood	filter paper	65	10	44	
+187	RK187	Red Knot	roselaari E	USFWS	6VL	Nome, AK	USA	breed	6/30/2014	blood	filter paper	65	10	45	
+188	RK188	Red Knot	roselaari E	USFWS	6VM	Nome, AK	USA	breed	6/30/2014	blood	filter paper	65	10	46	
+189	RK189	Red Knot	roselaari E	USFWS	6XT	Nome, AK	USA	breed	7/3/2014	blood	filter paper	65	10	47	
+190	RK190	Red Knot	roselaari E	USFWS	6VV	Nome, AK	USA	breed	7/5/2014	blood	filter paper	65	10	48	
+191	RK191	Red Knot	roselaari E	USFWS	6XH	Nome, AK	USA	breed	6/4/2014	blood	filter paper	65	10	49	
+192	RK192	Red Knot	roselaari E	USFWS	6XJ	Nome, AK	USA	breed	6/21/2014	blood	filter paper	65	10	50	
+193	RK193	Red Knot	roselaari E	USFWS	6XM	Nome, AK	USA	breed	6/22/2014	blood	filter paper	65	10	51	
+194	RK194	Red Knot	roselaari E	USFWS	6XN	Nome, AK	USA	breed	6/23/2014	blood	filter paper	65	10	52	
+195	RK195	Red Knot	roselaari E	USFWS	6XP	Nome, AK	USA	breed	6/23/2014	blood	filter paper	65	10	53	
+196	RK196	Red Knot	roselaari unk	USFWS	00	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+197	RK197	Red Knot	roselaari unk	USFWS	02	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+198	RK198	Red Knot	roselaari unk	USFWS	07	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+199	RK199	Red Knot	roselaari unk	USFWS	08	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+200	RK200	Red Knot	roselaari unk	USFWS	12	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+201	RK201	Red Knot	roselaari unk	USFWS	16	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+202	RK202	Red Knot	roselaari unk	USFWS	20	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+203	RK203	Red Knot	roselaari unk	USFWS	23	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+204	RK204	Red Knot	roselaari unk	USFWS	26	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+205	RK205	Red Knot	roselaari unk	USFWS	31	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+206	RK206	Red Knot	roselaari unk	USFWS	34	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+207	RK207	Red Knot	roselaari unk	USFWS	40	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+208	RK208	Red Knot	roselaari unk	USFWS	45	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+209	RK209	Red Knot	roselaari unk	USFWS	48	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+210	RK210	Red Knot	roselaari unk	USFWS	51	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+211	RK211	Red Knot	roselaari unk	USFWS	58	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+212	RK212	Red Knot	roselaari unk	USFWS	61	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+213	RK213	Red Knot	roselaari unk	USFWS	63	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+214	RK214	Red Knot	roselaari unk	USFWS	65	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+215	RK215	Red Knot	roselaari unk	USFWS	70	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+216	RK216	Red Knot	roselaari unk	USFWS	73	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+217	RK217	Red Knot	roselaari unk	USFWS	75	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+218	RK218	Red Knot	roselaari unk	USFWS	78	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+219	RK219	Red Knot	roselaari unk	USFWS	82	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+220	RK220	Red Knot	roselaari unk	USFWS	85	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+221	RK221	Red Knot	roselaari unk	USFWS	88	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+222	RK222	Red Knot	roselaari unk	USFWS	90	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+223	RK223	Red Knot	roselaari unk	USFWS	94	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+224	RK224	Red Knot	roselaari unk	USFWS	97	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+225	RK225	Red Knot	roselaari unk	USFWS	AC	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+226	RK226	Red Knot	roselaari unk	USFWS	AL	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+227	RK227	Red Knot	roselaari unk	USFWS	AU	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+228	RK228	Red Knot	roselaari unk	USFWS	AV	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+229	RK229	Red Knot	roselaari unk	USFWS	CC	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+230	RK230	Red Knot	roselaari unk	USFWS	CL	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+231	RK231	Red Knot	roselaari unk	USFWS	CT	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+232	RK232	Red Knot	roselaari unk	USFWS	CU	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+233	RK233	Red Knot	roselaari unk	USFWS	CY	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+234	RK234	Red Knot	roselaari unk	USFWS	EL	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+235	RK235	Red Knot	roselaari unk	USFWS	EU	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+236	RK236	Red Knot	roselaari unk	USFWS	HE	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+237	RK237	Red Knot	roselaari unk	USFWS	HM	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+238	RK238	Red Knot	roselaari unk	USFWS	HU	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+239	RK239	Red Knot	roselaari unk	USFWS	HV	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	used in MMEE course
+240	RK240	Red Knot	roselaari unk	USFWS	HY	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+241	RK241	Red Knot	roselaari unk	USFWS	JE	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+242	RK242	Red Knot	roselaari unk	USFWS	JH	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+243	RK243	Red Knot	roselaari unk	USFWS	JL	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+244	RK244	Red Knot	roselaari unk	USFWS	NC	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+245	RK245	Red Knot	roselaari unk	USFWS	NP	Gray's Harbor, WA	USA	northbound	5/13/2014	blood	filter paper	65	9	0	
+246	RK246	Red Knot	roselaari unk	USFWS	KC	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+247	RK247	Red Knot	roselaari unk	USFWS	KE	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+248	RK248	Red Knot	roselaari unk	USFWS	KJ	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+249	RK249	Red Knot	roselaari unk	USFWS	KL	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+250	RK250	Red Knot	roselaari unk	USFWS	KN	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+251	RK251	Red Knot	roselaari unk	USFWS	KV	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+252	RK252	Red Knot	roselaari unk	USFWS	LC	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+253	RK253	Red Knot	roselaari unk	USFWS	LJ	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+254	RK254	Red Knot	roselaari unk	USFWS	LM	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+255	RK255	Red Knot	roselaari unk	USFWS	LP	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+256	RK256	Red Knot	roselaari unk	USFWS	MC	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+257	RK257	Red Knot	roselaari unk	USFWS	ME	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+258	RK258	Red Knot	roselaari unk	USFWS	MH	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+259	RK259	Red Knot	roselaari unk	USFWS	MJ	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+260	RK260	Red Knot	roselaari unk	USFWS	MK	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+261	RK261	Red Knot	roselaari unk	USFWS	MT	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+262	RK262	Red Knot	roselaari unk	USFWS	MU	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+263	RK263	Red Knot	roselaari unk	USFWS	MV	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+264	RK264	Red Knot	roselaari unk	USFWS	MY	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+265	RK265	Red Knot	roselaari unk	USFWS	NN	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+266	RK266	Red Knot	roselaari unk	USFWS	NY	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+267	RK267	Red Knot	roselaari unk	USFWS	PE	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+268	RK268	Red Knot	roselaari unk	USFWS	PJ	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+269	RK269	Red Knot	roselaari unk	USFWS	PL	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+270	RK270	Red Knot	roselaari unk	USFWS	PP	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+271	RK271	Red Knot	roselaari unk	USFWS	PU	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+272	RK272	Red Knot	roselaari unk	USFWS	PY	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+273	RK273	Red Knot	roselaari unk	USFWS	TC	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+274	RK274	Red Knot	roselaari unk	USFWS	TK	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+275	RK275	Red Knot	roselaari unk	USFWS	TM	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+276	RK276	Red Knot	roselaari unk	USFWS	TY	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+277	RK277	Red Knot	roselaari unk	USFWS	UU	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+278	RK278	Red Knot	roselaari unk	USFWS	UE	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+279	RK279	Red Knot	roselaari unk	USFWS	UA	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+280	RK280	Red Knot	roselaari unk	USFWS	UN	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+281	RK281	Red Knot	roselaari unk	USFWS	UK	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+282	RK282	Red Knot	roselaari unk	USFWS	UY	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+283	RK283	Red Knot	roselaari unk	USFWS	UV	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+284	RK284	Red Knot	roselaari unk	USFWS	VA	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+285	RK285	Red Knot	roselaari unk	USFWS	VH	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+286	RK286	Red Knot	roselaari unk	USFWS	VN	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+287	RK287	Red Knot	roselaari unk	USFWS	VT	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+288	RK288	Red Knot	roselaari unk	USFWS	VX	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+289	RK289	Red Knot	roselaari unk	USFWS	XA	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+290	RK290	Red Knot	roselaari unk	USFWS	XE	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	used in MMEE course
+291	RK291	Red Knot	roselaari unk	USFWS	XK	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+292	RK292	Red Knot	roselaari unk	USFWS	XM	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+293	RK293	Red Knot	roselaari unk	USFWS	XY	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+294	RK294	Red Knot	roselaari unk	USFWS	YC	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+295	RK295	Red Knot	roselaari unk	USFWS	YK	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+296	RK296	Red Knot	roselaari unk	USFWS	YM	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+297	RK297	Red Knot	roselaari unk	USFWS	YT	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+298	RK298	Red Knot	roselaari unk	USFWS	YV	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+299	RK299	Red Knot	roselaari unk	USFWS	9YL	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+300	RK300	Red Knot	roselaari unk	USFWS	9YN	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+301	RK301	Red Knot	roselaari unk	USFWS	9YP	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+302	RK302	Red Knot	roselaari unk	USFWS	9YX	Gray's Harbor, WA	USA	northbound	5/14/2014	blood	filter paper	65	9	0	
+303	RK303	Red Knot	islandica	NIOZ	154	Waddensee	Netherlands	winter	9/10/1999	DNA extract	buffer	70	2	1	
+304	RK304	Red Knot	islandica	NIOZ	176	Waddensee	Netherlands	winter	9/10/1999	DNA extract	buffer	70	2	2	
+305	RK305	Red Knot	islandica	NIOZ	777	Waddensee	Netherlands	winter	7/25/2001	DNA extract	buffer	70	2	3	
+306	RK306	Red Knot	islandica	NIOZ	884	Waddensee	Netherlands	winter	7/27/2001	DNA extract	buffer	70	2	4	
+307	RK307	Red Knot	islandica	NIOZ	918	Waddensee	Netherlands	winter	7/24/2001	DNA extract	buffer	70	2	5	
+308	RK308	Red Knot	islandica	NIOZ	1058	Waddensee	Netherlands	winter	9/27/2000	DNA extract	buffer	70	2	6	
+309	RK309	Red Knot	islandica	NIOZ	1130	Waddensee	Netherlands	winter	1/24/2001	DNA extract	buffer	70	2	7	
+310	RK310	Red Knot	islandica	NIOZ	1230	Waddensee	Netherlands	winter	1/24/2001	DNA extract	buffer	70	2	8	
+311	RK311	Red Knot	islandica	NIOZ	1242	Waddensee	Netherlands	winter	1/24/2001	DNA extract	buffer	70	2	9	
+312	RK312	Red Knot	islandica	NIOZ	1270	Waddensee	Netherlands	winter	4/24/2001	DNA extract	buffer	70	2	10	
+313	RK313	Red Knot	islandica	NIOZ	1362	Waddensee	Netherlands	winter	10/16/2001	DNA extract	buffer	70	2	11	
+314	RK314	Red Knot	islandica	NIOZ	1986	Waddensee	Netherlands	winter	8/1/2003	DNA extract	buffer	70	2	12	
+315	RK315	Red Knot	islandica	NIOZ	2362	Waddensee	Netherlands	winter	1/15/2002	DNA extract	buffer	70	2	13	
+316	RK316	Red Knot	islandica	NIOZ	2400	Waddensee	Netherlands	winter	1/16/2002	DNA extract	buffer	70	2	14	
+317	RK317	Red Knot	islandica	NIOZ	2471	Waddensee	Netherlands	winter	3/6/2003	DNA extract	buffer	70	2	15	resighted Ellesmere Island
+318	RK318	Red Knot	islandica	NIOZ	2985	Waddensee	Netherlands	winter	10/1/2005	DNA extract	buffer	70	2	16	
+319	RK319	Red Knot	islandica	NIOZ	3363	Waddensee	Netherlands	winter	8/24/2006	DNA extract	buffer	70	2	17	
+320	RK320	Red Knot	islandica	NIOZ	3384	Waddensee	Netherlands	winter	8/24/2006	DNA extract	buffer	70	2	18	
+321	RK321	Red Knot	islandica	NIOZ	3522	Waddensee	Netherlands	winter	8/25/2006	DNA extract	buffer	70	2	19	
+322	RK322	Red Knot	islandica	NIOZ	3546	Waddensee	Netherlands	winter	8/25/2006	DNA extract	buffer	70	2	20	resighted Greenland
+323	RK323	Red Knot	islandica	NIOZ	3590	Waddensee	Netherlands	winter	8/26/2006	DNA extract	buffer	70	2	21	
+324	RK324	Red Knot	islandica	NIOZ	3849	Waddensee	Netherlands	winter	1/20/2007	DNA extract	buffer	70	2	22	
+325	RK325	Red Knot	islandica	NIOZ	3852	Waddensee	Netherlands	winter	1/20/2007	DNA extract	buffer	70	2	23	
+326	RK326	Red Knot	islandica	NIOZ	3855	Waddensee	Netherlands	winter	1/20/2007	DNA extract	buffer	70	2	24	
+327	RK327	Red Knot	islandica	NIOZ	4226	Waddensee	Netherlands	winter	9/6/2005	DNA extract	buffer	70	2	25	
+328	RK328	Red Knot	islandica	NIOZ	4514	Waddensee	Netherlands	winter	10/10/2007	DNA extract	buffer	70	2	26	
+329	RK329	Red Knot	islandica	NIOZ	5026	Waddensee	Netherlands	winter	7/23/2007	DNA extract	buffer	70	2	27	
+330	RK330	Red Knot	islandica	NIOZ	5499	Waddensee	Netherlands	winter	5/24/2009	DNA extract	buffer	70	2	28	
+331	RK331	Red Knot	islandica	NIOZ	5831	Waddensee	Netherlands	winter	3/29/2006	DNA extract	buffer	70	2	29	
+332	RK332	Red Knot	islandica	NIOZ	6397	Waddensee	Netherlands	winter	10/11/2010	DNA extract	buffer	70	2	30	
+333	RK333	Red Knot	islandica	NIOZ	7249	Waddensee	Netherlands	winter	9/23/2012	DNA extract	buffer	70	2	31	
+334	RK334	Red Knot	canutus	NIOZ	5143	Banc d'Arguin	Mauritania	winter	11/26/2008	DNA extract	buffer	70	2	32	
+335	RK335	Red Knot	canutus	NIOZ	5149	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	33	
+336	RK336	Red Knot	canutus	NIOZ	5152	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	34	
+337	RK337	Red Knot	canutus	NIOZ	5154	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	35	
+338	RK338	Red Knot	canutus	NIOZ	5155	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	36	
+339	RK339	Red Knot	canutus	NIOZ	5165	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	37	
+340	RK340	Red Knot	canutus	NIOZ	5169	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	38	
+341	RK341	Red Knot	canutus	NIOZ	5170	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	39	
+342	RK342	Red Knot	canutus	NIOZ	5171	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	40	
+343	RK343	Red Knot	canutus	NIOZ	5175	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	41	
+344	RK344	Red Knot	canutus	NIOZ	5184	Banc d'Arguin	Mauritania	winter	11/27/2008	DNA extract	buffer	70	2	42	
+345	RK345	Red Knot	canutus	NIOZ	5188	Banc d'Arguin	Mauritania	winter	11/28/2008	DNA extract	buffer	70	2	43	
+346	RK346	Red Knot	canutus	NIOZ	5196	Banc d'Arguin	Mauritania	winter	11/28/2008	DNA extract	buffer	70	2	44	
+347	RK347	Red Knot	canutus	NIOZ	5197	Banc d'Arguin	Mauritania	winter	11/28/2008	DNA extract	buffer	70	2	45	
+348	RK348	Red Knot	canutus	NIOZ	5204	Banc d'Arguin	Mauritania	winter	11/29/2008	DNA extract	buffer	70	2	46	
+349	RK349	Red Knot	canutus	NIOZ	5207	Banc d'Arguin	Mauritania	winter	11/29/2008	DNA extract	buffer	70	2	47	
+350	RK350	Red Knot	canutus	NIOZ	5222	Banc d'Arguin	Mauritania	winter	11/29/2008	DNA extract	buffer	70	2	48	
+351	RK351	Red Knot	canutus	NIOZ	5226	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	49	
+352	RK352	Red Knot	canutus	NIOZ	5227	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	50	
+353	RK353	Red Knot	canutus	NIOZ	5237	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	51	
+354	RK354	Red Knot	canutus	NIOZ	5239	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	52	
+355	RK355	Red Knot	canutus	NIOZ	5241	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	53	
+356	RK356	Red Knot	canutus	NIOZ	5244	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	54	
+357	RK357	Red Knot	canutus	NIOZ	5249	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	55	
+358	RK358	Red Knot	canutus	NIOZ	5258	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	56	
+359	RK359	Red Knot	canutus	NIOZ	5262	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	57	
+360	RK360	Red Knot	canutus	NIOZ	5274	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	58	
+361	RK361	Red Knot	canutus	NIOZ	5275	Banc d'Arguin	Mauritania	winter	12/1/2008	DNA extract	buffer	70	2	59	
+362	RK362	Red Knot	canutus	NIOZ	5405	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	60	
+363	RK363	Red Knot	canutus	NIOZ	5406	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	61	
+364	RK364	Red Knot	canutus	NIOZ	5412	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	62	
+365	RK365	Red Knot	canutus	NIOZ	5417	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	63	
+366	RK366	Red Knot	canutus	NIOZ	5418	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	64	
+367	RK367	Red Knot	canutus	NIOZ	5421	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	65	
+368	RK368	Red Knot	canutus	NIOZ	5441	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	66	
+369	RK369	Red Knot	canutus	NIOZ	5444	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	67	
+370	RK370	Red Knot	canutus	NIOZ	5445	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	68	
+371	RK371	Red Knot	canutus	NIOZ	5449	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	69	
+372	RK372	Red Knot	canutus	NIOZ	5451	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	70	
+373	RK373	Red Knot	canutus	NIOZ	5453	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	71	
+374	RK374	Red Knot	canutus	NIOZ	5466	Banc d'Arguin	Mauritania	winter	4/23/2009	DNA extract	buffer	70	2	72	
+375	RK375	Red Knot	canutus	NIOZ	5470	Banc d'Arguin	Mauritania	winter	4/23/2009	DNA extract	buffer	70	2	73	
+376	RK376	Red Knot	canutus	NIOZ	7203	Banc d'Arguin	Mauritania	winter	4/22/2009	DNA extract	buffer	70	2	74	
+377	RK377	Red Knot	canutus	ROM	TP3	Taymyr	Russia	breed	7/9/1994	blood	ethanol	65	12	41	
+378	RK378	Red Knot	rufa	ROM	YV	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	42	
+379	RK379	Red Knot	rufa	ROM	YU	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	43	
+380	RK380	Red Knot	rufa	ROM	YK	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	44	
+381	RK381	Red Knot	rufa	ROM	YH	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	45	
+382	RK382	Red Knot	rufa	ROM	XU	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	46	
+383	RK383	Red Knot	rufa	ROM	XP	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	47	
+384	RK384	Red Knot	rufa	ROM	XN	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	48	
+385	RK385	Red Knot	rufa	ROM	XE	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	49	
+386	RK386	Red Knot	rufa	ROM	XA	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	50	
+387	RK387	Red Knot	rufa	ROM	VM	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	51	
+388	RK388	Red Knot	rufa	ROM	VL	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	52	
+389	RK389	Red Knot	rufa	ROM	UE	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	53	
+390	RK390	Red Knot	rufa	ROM	TT	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	54	
+391	RK391	Red Knot	rufa	ROM	NT	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	55	
+392	RK392	Red Knot	rufa	ROM	TE	Quebec	Canada	breed	7/28/2009	blood	ethanol	65	12	56	
+393	RK393	Red Knot	rogersi	UWBM	43967	SE Chukotka	Russia	breed	7/14/1992	blood	ethanol	65	12	57	
+394	RK394	Red Knot	rogersi	UWBM	43968	SE Chukotka	Russia	breed	7/14/1992	blood	ethanol	65	12	58	
+395	RK395	Red Knot	rogersi prob	UWBM	44173	N Sea of Okhotsk	Russia	southbound	8/3/1992		ethanol	65	12	59	
+965	RK396	Red Knot	piersmai	RUG	052-41340	Broome	Australia	winter	8/27/2006	blood	ethanol	68	3	0	subspecies by Bohai plumage
+966	RK397	Red Knot	piersmai	RUG	052-41321	Broome	Australia	winter	7/30/2006	blood	ethanol	68	4	10	subspecies by Bohai plumage
+967	RK398	Red Knot	piersmai	RUG	052-41698	Broome	Australia	winter	7/8/2007	blood	ethanol	68	4	31	subspecies by Bohai plumage
+968	RK399	Red Knot	piersmai	RUG	052-48817	Broome	Australia	winter	8/12/2007	blood	ethanol	68	4	58	subspecies by Bohai plumage; little material
+969	RK400	Red Knot	piersmai	RUG	052-48823	Broome	Australia	winter	8/12/2007	blood	ethanol	68	4	64	subspecies by Bohai plumage
+970	RK401	Red Knot	piersmai	RUG	052-48824	Broome	Australia	winter	8/12/2007	blood	ethanol	68	4	65	subspecies by Bohai plumage; little material
+971	RK402	Red Knot	piersmai	RUG	052-41923	Broome	Australia	winter	8/12/2007	blood	ethanol	68	4	81	subspecies by Bohai plumage
+972	RK403	Red Knot	piersmai	RUG	052-41929	Broome	Australia	winter	8/12/2007	blood	ethanol	68	5	6	subspecies by Bohai plumage
+973	RK404	Red Knot	piersmai	RUG	052-41936	Broome	Australia	winter	8/12/2007	blood	ethanol	68	5	13	subspecies by Bohai plumage
+974	RK405	Red Knot	piersmai	RUG	052-48733	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	52	subspecies by Bohai plumage
+975	RK406	Red Knot	piersmai	RUG	052-48735	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	54	subspecies by Bohai plumage
+976	RK407	Red Knot	piersmai	RUG	052-48738	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	57	subspecies by Bohai plumage
+977	RK408	Red Knot	piersmai	RUG	052-48742	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	61	subspecies by Bohai plumage
+978	RK409	Red Knot	piersmai	RUG	052-48745	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	64	subspecies by Bohai plumage
+979	RK410	Red Knot	piersmai	RUG	052-48746	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	65	subspecies by Bohai plumage
+980	RK411	Red Knot	piersmai	RUG	052-48749	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	68	subspecies by Bohai plumage
+981	RK412	Red Knot	piersmai	RUG	052-48753	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	72	subspecies by Bohai plumage
+982	RK413	Red Knot	piersmai	RUG	052-48754	Broome	Australia	winter	9/16/2007	blood	ethanol	68	5	73	subspecies by Bohai plumage
+983	RK414	Red Knot	piersmai	RUG	052-41990	Broome	Australia	winter	10/14/2007	blood	ethanol	68	6	7	subspecies by Bohai plumage
+984	RK415	Red Knot	piersmai	RUG	052-51329	Broome	Australia	winter	11/27/2007	blood	ethanol	68	6	13	subspecies by Bohai plumage
+985	RK416	Red Knot	piersmai	RUG	052-50566	Broome	Australia	winter	2/19/2008	blood	ethanol	68	6	19	subspecies by Bohai plumage
+986	RK417	Red Knot	piersmai	RUG	052-54264	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	23	subspecies by Bohai plumage
+987	RK418	Red Knot	piersmai	RUG	052-54278	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	35	subspecies by Bohai plumage
+988	RK419	Red Knot	piersmai	RUG	052-54279	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	36	subspecies by Bohai plumage
+989	RK420	Red Knot	piersmai	RUG	052-54336	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	42	subspecies by Bohai plumage
+990	RK421	Red Knot	piersmai	RUG	052-54350	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	56	subspecies by Bohai plumage
+991	RK422	Red Knot	piersmai	RUG	052-54353	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	59	subspecies by Bohai plumage
+992	RK423	Red Knot	piersmai	RUG	052-54356	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	62	subspecies by Bohai plumage
+993	RK424	Red Knot	piersmai	RUG	052-41776	Broome	Australia	winter	7/26/2008	blood	ethanol	68	6	74	subspecies by Bohai plumage
+994	RK425	Red Knot	piersmai	RUG	052-51428	Broome	Australia	winter	7/26/2008	blood	ethanol	68	7	3	subspecies by Bohai plumage
+995	RK426	Red Knot	piersmai	RUG	052-41787	Broome	Australia	winter	8/2/2008	blood	ethanol	68	7	15	subspecies by Bohai plumage
+996	RK427	Red Knot	piersmai	RUG	052-41789	Broome	Australia	winter	8/2/2008	blood	ethanol	68	7	17	subspecies by Bohai plumage
+997	RK428	Red Knot	piersmai	RUG	052-41791	Broome	Australia	winter	8/2/2008	blood	ethanol	68	7	19	subspecies by Bohai plumage
+998	RK429	Red Knot	piersmai	RUG	052-50626	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	34	subspecies by Bohai plumage
+999	RK430	Red Knot	piersmai	RUG	052-50630	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	38	subspecies by Bohai plumage
+1000	RK431	Red Knot	piersmai	RUG	052-50632	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	40	subspecies by Bohai plumage
+1001	RK432	Red Knot	piersmai	RUG	052-50643	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	51	subspecies by Bohai plumage
+1002	RK433	Red Knot	piersmai	RUG	052-51390	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	60	subspecies by Bohai plumage
+1003	RK434	Red Knot	piersmai	RUG	052-51391	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	61	subspecies by Bohai plumage
+1004	RK435	Red Knot	piersmai	RUG	052-51397	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	67	subspecies by Bohai plumage
+1005	RK436	Red Knot	piersmai	RUG	052-51464	Broome	Australia	winter	8/16/2008	blood	ethanol	68	8	4	subspecies by Bohai plumage
+1006	RK437	Red Knot	piersmai	RUG	052-51465	Broome	Australia	winter	8/16/2008	blood	ethanol	68	8	5	subspecies by Bohai plumage
+1007	RK438	Red Knot	piersmai	RUG	052-51475	Broome	Australia	winter	8/30/2008	blood	ethanol	68	8	8	subspecies by Bohai plumage
+1008	RK439	Red Knot	piersmai	RUG	052-55421	Broome	Australia	winter	11/16/2009	blood	ethanol	68	8	28	subspecies by Bohai plumage
+1009	RK440	Red Knot	rogersi	RUG	052-54276	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	33	subspecies by Bohai plumage
+1010	RK441	Red Knot	rogersi	RUG	052-54280	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	37	subspecies by Bohai plumage
+1011	RK442	Red Knot	rogersi	RUG	052-54334	Broome	Australia	winter	6/7/2008	blood	ethanol	68	6	40	subspecies by Bohai plumage
+1012	RK443	Red Knot	rogersi	RUG	052-54348	Broome	Australia	winter	10/17/2009	blood	ethanol	68	6	54	subspecies by Bohai plumage
+1013	RK444	Red Knot	rogersi	RUG	052-50641	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	49	subspecies by Bohai plumage
+1014	RK445	Red Knot	rogersi	RUG	052-50589	Broome	Australia	winter	8/16/2008	blood	ethanol	68	7	57	subspecies by Bohai plumage
+1015	RK446	Red Knot	roselaari E	USFWS	6UC	Nome, AK	USA	breed		blood	filter paper	65	10	54	hatch year
+1016	RK447	Red Knot	roselaari E	USFWS	6UE	Nome, AK	USA	breed		blood	filter paper	65	10	55	hatch year
+1017	RK448	Red Knot	roselaari E	USFWS	6UH	Nome, AK	USA	breed		blood	filter paper	65	10	56	hatch year
+1018	RK449	Red Knot	roselaari E	USFWS	6UJ	Nome, AK	USA	breed		blood	filter paper	65	10	57	hatch year
+1019	RK450	Red Knot	roselaari E	USFWS	6UL	Nome, AK	USA	breed		blood	filter paper	65	10	58	hatch year
+1020	RK451	Red Knot	roselaari E	USFWS	6XK	Nome, AK	USA	breed		blood	filter paper	65	10	59	hatch year
+1021	RK452	Red Knot	roselaari E	USFWS	6XL	Nome, AK	USA	breed		blood	filter paper	65	10	60	hatch year
+1022	RK453	Red Knot	roselaari E	USFWS	1232-33810	Nome, AK	USA	breed		blood	filter paper	65	10	61	chick
+1023	RK454	Red Knot	roselaari E	USFWS	1232-33811	Nome, AK	USA	breed		blood	filter paper	65	10	62	chick
+1024	RK455	Red Knot	roselaari E	USFWS	1232-33812	Nome, AK	USA	breed		blood	filter paper	65	10	63	chick
+1025	RK456	Red Knot	roselaari E	USFWS	1232-33813	Nome, AK	USA	breed		blood	filter paper	65	10	64	chick
+1026	RK457	Red Knot	roselaari E	USFWS	1232-33820	Nome, AK	USA	breed		blood	filter paper	65	10	65	chick
+1027	RK458	Red Knot	roselaari E	USFWS	1232-33822	Nome, AK	USA	breed		blood	filter paper	65	10	66	chick
+1028	RK459	Red Knot	roselaari E	USFWS	1232-33823	Nome, AK	USA	breed		blood	filter paper	65	10	67	chick
+1029	RK460	Red Knot	roselaari E	USFWS	1232-33824	Nome, AK	USA	breed		blood	filter paper	65	10	68	chick
+1139	RK461	Red Knot	rogersi	Massey	4YWRR	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	51	
+1140	RK462	Red Knot	rogersi	Massey	4YWRB	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	52	
+1141	RK463	Red Knot	piersmai?	Massey	4YWRY	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	53	
+1142	RK464	Red Knot	rogersi	Massey	4YWRW	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	54	
+1143	RK465	Red Knot	rogersi	Massey	4YWBB	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	55	
+1144	RK466	Red Knot	piersmai?	Massey	4YWBW	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	56	
+1145	RK467	Red Knot	rogersi	Massey	4YWBR	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	57	
+1146	RK468	Red Knot	rogersi	Massey	4YRYW	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	58	
+1147	RK469	Red Knot	rogersi	Massey	4YWBY	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	59	
+1148	RK470	Red Knot	rogersi	Massey	4YRBY	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	60	
+1149	RK471	Red Knot	rogersi	Massey	4YRWR	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	61	
+1150	RK472	Red Knot	rogersi	Massey	4YRWW	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	62	
+1151	RK473	Red Knot	rogersi	Massey	4YRWB	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	63	
+1152	RK474	Red Knot	piersmai?	Massey	4YRWY	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	64	
+1153	RK475	Red Knot	rogersi	Massey	4YRRW	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	65	
+1154	RK476	Red Knot	rogersi	Massey	4YRBW	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	66	
+1155	RK477	Red Knot	rogersi	Massey	4YBYY	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	67	
+1156	RK478	Red Knot	rogersi	Massey	4YBYW	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	68	
+1157	RK479	Red Knot	rogersi	Massey	4YBYR	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	69	
+1158	RK480	Red Knot	rogersi	Massey	4YBYB	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	70	
+1159	RK481	Red Knot	rogersi	Massey	4YRBR	Foxton	New Zealand	winter	10/30/2008	blood	ethanol	72	1	71	
+1160	RK482	Red Knot	rogersi	Massey	EER	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	72	
+1161	RK483	Red Knot	rogersi	Massey	EEX	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	73	
+1162	RK484	Red Knot	rogersi	Massey	EAP	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	74	geolocator-tracked
+1163	RK485	Red Knot	rogersi	Massey	EAY	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	75	geolocator-tracked
+1164	RK486	Red Knot	rogersi	Massey	EEY	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	76	
+1165	RK487	Red Knot	rogersi	Massey	EEZ	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	77	
+1166	RK488	Red Knot	rogersi	Massey	EHA	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	78	
+1167	RK489	Red Knot	rogersi	Massey	EHB	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	79	
+1168	RK490	Red Knot	rogersi	Massey	EHC	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	80	
+1169	RK491	Red Knot	rogersi	Massey	EHD	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	1	81	
+1170	RK492	Red Knot	rogersi	Massey	AKU	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	2	1	
+1171	RK493	Red Knot	rogersi	Massey	CEU	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	2	2	geolocator-tracked
+1172	RK494	Red Knot	piersmai	Massey	CEZ	Foxton	New Zealand	winter	1/29/2014	blood	lysis buffer	72	2	3	geolocator-tracked
+1173	RK495	Red Knot	piersmai	Massey	CES	Foxton	New Zealand	winter		blood	lysis buffer	72	2	4	subspecies by Foxton plumage
+1174	RK496	Red Knot	rogersi	Massey	EEA	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	5	
+1175	RK497	Red Knot	rogersi	Massey	EEB	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	6	
+1176	RK498	Red Knot	rogersi	Massey	EEC?	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	7	
+1177	RK499	Red Knot	rogersi	Massey	EED	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	8	
+1178	RK500	Red Knot	rogersi	Massey	EEE	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	9	
+1179	RK501	Red Knot	rogersi	Massey	EEH	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	10	
+1180	RK502	Red Knot	rogersi	Massey	EEJ	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	11	
+1181	RK503	Red Knot	rogersi	Massey	EEL	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	12	
+1182	RK504	Red Knot	rogersi	Massey	EEM	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	13	
+1183	RK505	Red Knot	rogersi	Massey	EEN	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	14	
+1184	RK506	Red Knot	rogersi	Massey	EEP	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	15	
+1185	RK507	Red Knot	rogersi	Massey	EEP?	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	16	
+1186	RK508	Red Knot	rogersi	Massey	EER	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	17	
+1187	RK509	Red Knot	rogersi	Massey	EES	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	18	
+1188	RK510	Red Knot	rogersi	Massey	EET	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	19	
+1189	RK511	Red Knot	rogersi	Massey	EEU	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	20	
+1190	RK512	Red Knot	rogersi	Massey	EEV	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	21	
+1191	RK513	Red Knot	rogersi	Massey	EEW	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	22	
+1192	RK514	Red Knot	rogersi	Massey	EEX	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	23	
+1193	RK515	Red Knot	rogersi	Massey	EAB	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	24	geolocator-tracked
+1194	RK516	Red Knot	rogersi	Massey	EAA	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	25	geolocator-tracked
+1195	RK517	Red Knot	piersmai	Massey	EBD	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	26	subspecies by Foxton plumage
+1196	RK518	Red Knot	rogersi	Massey	EBH	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	27	
+1197	RK519	Red Knot	rogersi	Massey	EBL	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	28	
+1198	RK520	Red Knot	rogersi	Massey	CEE	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	29	
+1199	RK521	Red Knot	rogersi	Massey	CEM	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	30	
+1200	RK522	Red Knot	rogersi	Massey	CEU	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	31	geolocator-tracked
+1201	RK523	Red Knot	piersmai	Massey	CEZ	Foxton	New Zealand	winter	11/19/2013	blood	lysis buffer	72	2	32	geolocator-tracked
+1202	RK524	Red Knot	piersmai	Massey	CEZ	Foxton	New Zealand	winter	11/03/2009	blood	ethanol	72	2	33	geolocator-tracked
+1203	RK525	Red Knot	rogersi	Massey	6YYYW	Foxton	New Zealand	winter	11/09/2010	blood	ethanol	72	2	34	
+1204	RK526	Red Knot	rogersi	Massey	4YBBW	Foxton	New Zealand	winter	11/09/2010	blood	ethanol	72	2	35	
+1205	RK527	Red Knot	rogersi	Massey	4YBBR	Foxton	New Zealand	winter	11/09/2010	blood	ethanol	72	2	36	
+1206	RK528	Red Knot	rogersi	Massey	4YWYW	Foxton	New Zealand	winter		blood	ethanol	72	2	37	
+1207	RK529	Red Knot	rogersi	Massey	4WWYY	Foxton	New Zealand	winter		blood	ethanol	72	2	38	
+1275	RK530	Red Knot	rogersi	PTomkovich	HS010933	Chukotka	Russia	breed	06/17/2014	blood	ethanol	65	12	79	
+1276	RK531	Red Knot	unk	PTomkovich	1	Odessa	Ukraine	southbound	09/10/2015	blood	ethanol	70	1	79	unidentified juvenile; 46.44N, 31.11E
+1277	RK532	Red Knot	unk	PTomkovich	2	Odessa	Ukraine	southbound	09/10/2015	blood	ethanol	70	1	80	unidentified juvenile; 46.44N, 31.11E
+1278	RK533	Red Knot	unk	PTomkovich	3	Odessa	Ukraine	southbound	09/10/2015	blood	ethanol	70	1	81	unidentified juvenile; 46.44N, 31.11E
+1281	RK534	Red Knot	rogersi	Massey	EAU	Foxton	New Zealand	winter		blood	lysis buffer	72	2	39	geolocator-tracked

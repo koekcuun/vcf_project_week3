@@ -1,0 +1,17 @@
+PLINK v2.00a2LM 64-bit Intel (22 Jan 2019)
+Options in effect:
+  --bfile redknots
+  --out pca
+  --pca 10
+
+Hostname: wanaka-VirtualBox
+Working directory: /home/wanaka/vcf_project_week3/step3_analysis/CODE
+Start time: Thu Jan 24 23:56:18 2019
+
+Random number seed: 1548370578
+3470 MiB RAM detected; reserving 1735 MiB for main workspace.
+Using up to 2 compute threads.
+
+Error: Failed to open redknots.fam.
+
+End time: Thu Jan 24 23:56:18 2019
