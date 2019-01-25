@@ -1,0 +1,29 @@
+INSTRUCTIONS
+
+###############
+How to use the PopGen pipeline
+
+Authors: Sascha Brunner & Cuun Koek, University of Groningen
+Date: 24/01/19
+###############
+
+###  Before you start  ###
+
+Required programs:
+-R version 3.5.1
+-PLINK v2.00a2LM
+-admixture v1.3.0
+-VCFtools v0.1.15
+
+Input:
+Put VCF format file and a separate text file containing the key to your individuals
+(with a column named "Population") in DATA_REPOSSITORY
+
+Then:
+EITHER: Name your dataset "REKN_Testdataset3.recode.vcf" and your key text file "REKN_sample_info.txt"
+OR: Go in the CODE folder of each and replace "REKN_Testdataset3.recode.vcf" with the name of your dataset
+Also replace "REKN_sample_info.txt" with the name of your key text file.
+Next:
+Go out of the current step folder you're in and run the master.sh script in the top folder.
+This master.sh script will loop through all the steps and give output.
+Find the output and plots in step*_PCA/RESULTS/.
